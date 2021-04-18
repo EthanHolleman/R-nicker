@@ -2,3 +2,5 @@ Logs/
 output/
 .snakemake/
 software/
+*.err
+*.out
