@@ -4,3 +4,4 @@ output/
 software/
 *.err
 *.out
+rawdata/
